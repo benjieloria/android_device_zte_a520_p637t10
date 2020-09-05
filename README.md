@@ -1,0 +1,1 @@
+# android_device_zte_a520_p637t10
